@@ -1,0 +1,589 @@
+ID^English
+Eufloria^Eufloria
+Play^Play
+PlayCampaign^Play Story Mode
+PlayArena^Skirmish Arenas
+DarkMatterMode^Dark Matter Mode
+Options^Options
+UnlockFeatures^Unlock Levels
+Difficulty^Play Style
+RedefineControls^Redefine Controls
+GameOptions^Game Options
+EraseProgress^Erase Game Progress
+RestoreSession^Resume Game Session
+ViewArtifacts^View Artifacts
+ViewAchievements^View Achievements
+Help^Help
+About^Credits
+Resume^Resume
+Restart^Restart
+CurrentMission^Level Goal
+Tutorials^Help
+Strategy^Stuck?
+Quit^Quit
+Exit^Save & Exit
+OK^OK
+Cancel^Cancel
+back^Back
+Next^Next
+Previous^Previous
+WellDone^Well Done!
+Excellent^Excellent!
+Paused^Paused
+ArenasTitle^Skirmish Arenas
+Chapter1^Takeoff
+Chapter2^Into the Wild
+Chapter3^Outer Colonies
+Chapter4^Deep Space
+Chapter5^Event Horizon
+TimeRecord^Record:
+UnlockCampaign^Story Chapters:
+UnlockArenas^Skirmish Arenas:
+UnlockAll^Unlock
+Unlock^Unlock
+Unlocked^Unlocked
+GameMode3^Relaxed
+GameMode4^Challenging
+MusicVol^Music Volume
+SEVol^Sound Effect Volume
+AstVol^Asteroid Noise Volume
+ReallyRestart^Restart Level?##You will lose your current progress.##Are you sure you want to restart the level?
+EraseProgressWarning^Really erase all your progress?##You will have to start again from the beginning!##It will be as if you had never played the game before!
+RestoreSessionWarning^Continue playing previous game session?##Cancel will delete the previous session and return you to the Main Menu!
+DifficultyChange^Select Play Style##Congratulations! You have completed the first chapter of Eufloria.#From now on things will get harder!##If you prefer a slower, sometimes easier style of play, choose "Relaxed Mode".#If you crave more of a challenge, choose "No Change".
+DifficultyNoChange^No Change
+DifficultyClassic^Relaxed Mode
+AncientArtifacts^Ancient Artifacts
+Achievements^Achievements
+ArtifactDesc^Artifact Description
+ReallyQuit^Quit Level?##You will lose your current progress.##Are you sure you want to quit back to the menu?
+ReallyExit^Exit Game?##Your current progress will be saved.##Are you sure you want to exit the game?
+Credits^###©2014-2015 Omni Systems Limited. All rights reserved##Created by Alex May and Rudolf Kremers, with music and sounds by Milieu##Eufloria HD developed by Mark Fitt and Alex Amsel (Tuna)##Additional development by Mike Ttoouli, Alex Ashby, Dugan Jackson and Anthony Flack##Designed and produced by Rudolf Kremers (Omni Systems Limited)
+CampaignIntro^Story Mode##Story Mode is the best way to learn how to play and enjoy the game so we recommend you play it before other play modes.##Playing through the many challenges will unlock additional content!
+DarkModeIntro^Dark Matter Mode##Play your favourite Story Mode levels again, but this time your opponents are tougher and in league with Darkness.##Your goal is to conquer all asteroids in each level!
+ArenaIntro^Skirmish Arenas##These are stand-alone levels that you can play outside of the main story line.##Unlock new arenas by playing through the main story.##They contain features that are explained in the Story Mode, so you may want to play that first.
+UnlockedArena^Skirmish Arena Unlocked##Congratulations!##You have unlocked a Skirmish Arena!
+UnlockedDarkMatter^Dark Matter Mode Unlocked##Congratulations!##You have unlocked Dark Matter Mode!
+InfoTrees^Trees
+InfoFlower^FLOWER
+InfoMine^LASER POD
+InfoBeacon^BEACON PLANT
+InfoTerraformer^TERRAFORM TREE
+InfoEnergy^Energy
+InfoStrength^Strength
+InfoSpeed^Speed
+InfoSeedlings^Seedlings
+InfoEnemies^Enemies
+InfoUnknown^UNKNOWN
+LostDarkMode^The darkness has consumed you.|Try again.
+WonDarkMode^You have overcome the darkness!
+01_title^Green Shoots
+01_01^na
+01_02^-GREEN SHOOTS-~Wake up little seedling...
+01_GOAL^-Level Goal-##You must find your brothers and sisters, then plant a tree.
+01_INTRO^-WELCOME TO EUFLORIA-|Take your time while learning how to play, and you will be rewarded with many hours of enjoyment.~ ~You can then play in a slow and relaxed manner, or you may prefer to be fast and furious.
+01_SEEDLING^The Growers have given you an asteroid orbited by a seedling.~This is your COLONY! Soon, you will learn how to expand it.|When a new feature is available, {u57374} will appear in the top right of the screen.~You can press it for more help.
+01_SELECT^• Tap an asteroid to SELECT it.~The INFO PANEL shows the asteroid's details.~• Tap empty space to DESELECT the asteroid.
+01_PAN_ZOOM^{u57375} Use your finger to pan around your colony.~{u57382} Pinch with two fingers to zoom in or out.
+01_SEND_MODE^It is time to explore the next asteroid!
+01_DRAG_SEND^Send your seedling to the asteroid above.~(Press {u57374} for help)
+01_DRAG_SEND_OLD^• Drag your finger from the lower asteroid to the target asteroid above, then lift up your finger.~A green arrow will connect the two asteroids.~• Tap the target asteroid again to send your seedling.
+01_SEND_MODE_OTHER^Well Done!~Remember, you can only use SEND MODE if you have seedlings orbiting your asteroid.~You can activate SEND MODE in two other ways.
+01_SEND_MODE_BUTTON^• SELECT the new asteroid and tap {u57353}.~• Tap the asteroid above twice to send your seedling.
+01_04^You have found more seedlings!~Keep going and gather 10 seedlings together.
+01_EXPLORE_RIGHT^Use any SEND MODE to explore the asteroid to your right.
+01_05^To add this asteroid to your colony, you must plant a DYSON TREE!
+01_DYSON_TREE^• Tap {u57349} to plant a DYSON TREE.~10 seedlings will be planted and a tree will grow!
+01_06^Excellent! You have planted a DYSON TREE.~Be patient while new seedlings grow, and then we'll explore further.
+01_WATCH_TREE^{u57382} Try zooming in so you can see the tree close up.~Watch as it takes root and then grows more brother and sister seedlings.
+01_PAUSE^• Press {u57376} to pause the game.~The PAUSE MENU allows you to view the LEVEL GOAL, HELP screens, change OPTIONS, and more.
+01_PATIENT^Be patient...
+01_SELECT_MOUSE^• Click on an asteroid to SELECT it.~The INFO PANEL shows the asteroid's details.~• Click on empty space to DESELECT the asteroid.
+01_PAN_ZOOM_MOUSE^{u57375} Pan the view by holding the right mouse button and dragging, use WASD, or use the cursor keys.~{u57382} Use the scroll wheel, press Q/E, or press Page Up/Page Down to zoom.
+01_SEND_MODE_BUTTON_MOUSE^• SELECT the new asteroid and press {u57353}.~• Click on the asteroid above twice to send your seedling.
+01_DYSON_TREE_MOUSE^• Press {u57349} to plant a DYSON TREE.~10 seedlings will be planted and a tree will grow!
+01_win^Very good!~You have grown new seedlings.~Enough to take you to the next area.|You will do THE GROWERS proud.
+02_title^Expansion
+02_01^-EXPANSION-~It is time for you to help grow our colony.~As your MOTHER TREE, I will guide you.|Explore this minor belt and establish new colonies to serve THE GROWERS.
+02_GOAL^-Level Goal-##Grow settlements by planting a tree on all asteroids.##10 seedlings are required to plant a tree.
+02_SPEED_CONTROL^If you want seedlings to grow and fly faster, use the SPEED CONTROL at the top left of the screen.
+02_02^Asteroids have different strengths and weaknesses.~They determine the abilities of trees and seedlings grown on them.
+02_ATTRIBUTES^Each asteroid's ENERGY, STRENGTH and SPEED resources determine their seedlings' attributes.~SELECT an explored asteroid to see its attributes on the INFO PANEL.|Attributes determine seedling and tree appearance.~Large seedlings have high ENERGY.~A long nose indicates high STRENGTH.~Seedling wings reflect their SPEED.
+02_03^I am pleased.~You have learned how to grow new trees and add asteroids to our colony.|Continue with your exploration.
+02_04^As trees age, they grow taller and produce more seedlings.~Take a closer look at your first asteroid!
+02_win^Thank you, little seedling.~These resources are welcome, and the asteroids fertile.|I will let you explore further.
+02_lose^Try again...
+03_title^Greys
+03_01^-GREYS-~What happened to our colony?|There should be more seedlings here...~This place was previously teeming with life!~Find out what happened.
+03_GOAL^-Level Goal-##Explore and colonise all asteroids.
+03_TWO_TREES^Amazing!~Asteroids in this belt are quite fertile and can support two trees.
+03_SCOUT^We are detecting strange signals from the asteroid below.~The Mother Tree would like you to send a SCOUT.
+03_02^What is happening?~Your asteroid is being attacked!~Protect your asteroid with more seedlings!
+03_03^These creatures...~They are mad with violence and anger.~Why do they fight us?!|We must fight back.~Take their asteroid!
+03_SEEDLINGS^Seedlings will defend their asteroid from enemy invasions.~Send some of your seedlings to protect your asteroid!~Then send some of your seedlings to attack your enemy's asteroid.
+03_CONQUER^We have taken their asteroid!~But take care, there may be more enemies...
+03_PRECISE_SEND^The Mother Tree has decided to reward your efforts.~You can now choose how many seedlings to send to asteroids!
+03_07^The enemy have colonised one of your asteroids!~You will need to send some seedlings there to fight them for it!
+03_win^You have fought off the grey sickness.~But so many precious seedlings have perished.|What is this terrible disease that has taken root?~The growers depend on us for new colonies.|We must find out more, or they may not return!
+03_lose^Our colony has succumbed to the grey sickness.~The disease has spread into our roots.|Plant again and clean the soil.
+04_title^Engagement
+04_01^-ENGAGEMENT-~Find the source of the grey sickness.~Any greys you find must be destroyed.|Find out what they are, or where they come from.~Take back the land that has been infected.
+04_GOAL^-Level Goal-##Destroy your enemy.##Colonise all asteroids.
+04_ARTIFACT^This asteroid belt contains an ANCIENT ARTIFACT!~We should collect it for further investigation.
+04_02^Another SEEDLING COLONY?|Who are they?~Have they brought the grey sickness here?
+04_win^Congratulations!~You have made this pocket of space yours!|However...~From now on things will likely get tougher!
+04_lose^Our enemy is strong.~You can be STRONGER.|Try again, we know you can do this!
+05_title^The Grey Void
+05_01^-THE GREY VOID-~We know this area of space is overrun with the Grey Ones.|Reclaim our territory and cleanse the sickness.
+05_GOAL^-Level Goal-##Destroy your enemy.##Colonise all asteroids.
+05_02^Fly carefully little seedling...~These DEFENSE TREES are dangerous.~They release explosive pods that follow us...
+05_DEFENSE_TREE^We can now defend our asteroids with DEFENSE TREES!~Try planting a few on your asteroids.
+05_04^Excellent.~DEFENSE TREES are powerful and can devastate a careless enemy.|Use them well.
+05_win^You have done well; the sector is ours.~We have learned much that is disturbing.~We are not alone in the universe.|The greys... they are corrupted seedlings...~A disease has driven them mad!~They infect our colony and must be dealt with.|However, another seedling colony has been discovered...~Why are they meddling with our asteroids?~We have to learn more about them, so I am sending you beyond our borders...~INTO THE WILD...
+05_lose^Our enemy is strong.~You can be STRONGER.|Try again, we know you can do this!
+06_title^Forest
+06_01^-FOREST-~What happened here...?~The asteroid field is thick with defences, but where is the enemy?|Investigate immediately!~But be careful.
+06_GOAL^-Level Goal-##Explore this region.##Find a path which avoids the enemy defences.
+06_FILTER_ATTRIBUTE^You have found HIGH SPEED seedlings at this asteroid.~They can evade the defences in this area.
+06_BEACON_TREE^The Mother Tree has sent you a BEACON PLANT!~They can send newly grown seedlings from their home to another asteroid.
+06_03^You have found more of our seedlings!~Use them well.
+06_GOAL2^-Level Goal-##Your new goal is to capture the large asteroid on the left to conquer this sector.
+06_win^We have broken through!|We can now explore deep into this region...~and find the infected root of the grey sickness.
+06_lose^They have stopped you for now...~But the seed grows again.
+07_title^Containment
+07_01^-CONTAINMENT-~Our progress is blocked by a giant asteroid~Find a way to break through.|Conquer all asteroids and make us proud.
+07_GOAL^-Level Goal-##Break through the giant asteroid.
+07_ENERGY^You have found a powerful asteroid!~Seedlings with high ENERGY are the best at sapping powerful asteroid cores.
+07_03^You have done well!~High ENERGY seedlings defeat any asteroid core!|Now take over the rest of the asteroids!
+07_GOAL2^-Level Goal-##Colonise all asteroids.
+07_win^It is done!~Your victories make the mother-tree grow strong.~Yet we have encountered even more aggressors...|What lies further ahead?
+07_lose^The barrier can best be broken with ENERGY!~Use it wisely.|Victory is within reach, if you improve your tactics.
+08_title^Fight or Flight
+08_01^-FIGHT OR FLIGHT-~A tricky choice...~Escape your guardians and choose SPEED or STRENGTH.|Plan carefully...~...and defeat the hidden horde.
+08_GOAL^-Level Goal-##Find and defeat the strongest enemy.
+08_TERRAFORMING_TREE^You have been sent a TERRAFORM TREE!~Growing seedlings which are both STRONG and FAST will be useful in this belt.
+08_win^You read the asteroids well!~The universe is a complex place, but knowledge prevails.
+08_lose^-EXPANSION-~It is time for you to help grow our colony.~As your MOTHER TREE, I will guide you.|Explore this minor belt and establish new colonies to serve THE GROWERS.
+09_title^Critical Mass
+09_01^-CRITICAL MASS-~We have isolated outposts somewhere in this quadrant.~Find them and free our seedlings, if they are still alive.|Clear any resistance from this sector.~Conquer the stepping stone to achieve victory!
+09_GOAL^-Level Goal-##Find and free all our seedlings.##Capture all large outposts and defeat all enemies.
+09_02^You have found one of our outposts!~Let them help you take this sector.
+09_lose^We have lost this battle.~The Growers expect more of us.
+09_win^The sector is ours and our outposts have been freed.|Our previously lost seedlings have revealed great news.~Our enemies have created a secret weapon.~We now know where to find it.|Let's retrieve it and make The Growers proud.
+10_title^Quantum Leap
+10_01^-QUANTUM LEAP-~Beware the giants...~They can trample anybody in their path.|However, we have created a powerful weapon!~FLOWERS will bloom on your trees.~They can be used to grow LASER PODS.|Use your new weapon to conquer the four giants.
+10_GOAL^-Level Goal-##Conquer the four giants.
+10_02^Laser Pods##What is this devastating weapon?##These LASER PODS destroy seedlings mercilessly.##You MUST conquer this asteroid and take this weapon from our enemy.
+10_02B^You have found powerful allies!~They will help you conquer the four giants.
+10_03^Thank the Growers!~You have uncovered a mighty secret.~FLOWERS can be used to grow powerful weapons.|Used well, our new weapons will allow you to conquer the four giants.
+10_FLOWERS_MINES^DYSON TREES sometimes produce FLOWERS.~If grafted on to a DEFENSE TREE, the tree will produce LASER MINES.~These are a powerful weapon against enemy seedlings.|Once mature, FLOWERS and LASER MINES must be plucked from their tree with a finger swipe.~A FLOWER can be planted on a DEFENSE TREE using the +LASER MINE button in the LEFT ASTEROID MENU.~LASER MINES will regrow on their tree if they are destroyed.
+10_FLOWERS_MINES_SEND^Both FLOWERS and LASER MINES can be sent to other asteroids.~Tap to to select them, then tap a target asteroid.~Tap the target asteroid again to confirm.~LASER MINES are normally also sent when using SEND MODE.
+10_SEND^You can send your FLOWERS and LASER PODS anywhere in your colony.
+10_FILTER_BY_TYPE^LASER PODS can guard your asteroids while your seedlings expand your colony.
+10_GOAL2^-Level Goal-##Armed with your new allies, you must conquer the four giants.
+10_win^The heart of this asteroid belt has revealed its secret.~We have learned much and gained a new weapon.|I must now send you further into treacherous territory.~It is time to face THE OUTER COLONIES.
+10_lose^The secret of the four giants must be obtained.~Be brave little seedling and try once more!
+11_title^The Vicious Ones
+11_01^-THE VICIOUS ONES-~Your colony is surrounded...|The vicious ones are everywhere!~They have taken control of this nebula.~You must defeat them to prepare this region for the return of The Growers!
+11_GOAL^-Level Goal-##Defeat all enemy seedlings.
+11_win^What a glorious battle!|One day The Growers will return, and know that you have served them well.
+11_lose^Do not give up.~The enemy grows stronger but we can beat them still.|Regroup and grow new seedlings.~Try again when you feel ready.
+11_02^A grey infection!~Stop them before they infect this colony!
+12_title^One Hundred
+12_01^-ONE HUNDRED-~One hundred of our best seedlings have gathered.|You have been sent into a wasteland where almost nothing can grow.~Find a way to conquer this barren sector.
+12_GOAL^-Level Goal-##Colonise the entire asteroid belt.
+12_02^You have found some lost seedlings!~They will serve you well!
+12_win^Pockets of brave seedlings still resist.~Their strength and endurance has given us this sector.|You have planted well.
+12_lose^Keep trying.~Barren and dangerous it may be, this sector is still worth exploring.
+13_title^The Stand
+13_01^-THE STAND-~Stand tall seedlings!~The greys are coming...|You must repel the coming attack and defend our presence.~Survive and make this entire sector ours.
+13_GOAL^-Level Goal-##Defeat all enemy seedlings.
+13_02^They are on their way...~Beware!
+13_03^More greys are coming our way!
+13_win^No wave can drown us!~The enemy has grown bold but foolish.|It is time to attack an enemy stronghold.~Our next mission is to free more seedlings!
+13_lose^Like the smallest sapling we will grow again, only to become so numerous that we will blot out the sky.|We must break through our soil and grow again.
+14_title^Liberation
+14_01^-LIBERATION-~Your comrades are held captive deep in this sector.~Break into their jail and free them.|We know they live, but where can they be?
+14_GOAL^-Level Goal-##Free our captured seedlings.
+14_02^These allies are in possession of a new way of growing seedlings.~Seedlings of great power can now be grown from FLOWER enhanced DYSON TREES!
+14_GOAL2^-Level Goal-##Colonise the asteroids above you and continue our mission.
+14_win^The Growers will be proud.~This new weapon will allow us to chase and destroy the Grey Sickness.
+14_lose^Keep searching...~Our salvation may lie within!
+15_title^Cluster
+15_01^-CLUSTER-~This fertile cluster is under attack by our enemies.~Do not allow them to gain control.|Our new ENHANCED SEEDLINGS will be crucial in this fight.~15 asteroids plus the centre will determine the victor!
+15_GOAL^-Level Goal-##Conquer the centre.##Colonise 15 asteroids.
+15_02^This central asteroid is key to conquering this system!~Plan your strategy wisely...
+15_win^You have done it!~A strategic foothold is now ours.~This cluster has given us access to others.|This time I am sending you far away.~DEEP SPACE awaits...
+15_lose^They have overrun the cluster.~Wipe them from our soil!
+16_title^Containment II
+16_01^-CONTAINMENT II-~Be wary, seedlings...|There is a time to attack, and a time to defend.~Strike a balance.~Survive the flood and fight back.
+16_GOAL^-Level Goal-##Defeat all enemies.
+16_02^The attacks will continue!|Prepare your defences!~Use your flowers wisely.
+16_win^We have learned to fight back.|These others, no matter who they are...~We will defeat them and learn why they fight us.
+16_lose^We must dig deeper, and plant the seeds of our success carefully.
+17_title^Protection
+17_01^-PROTECTION-~Protect the greys to your right.~We have locked them in this area for now so we can safely study them!|Please observe their behaviour and learn what you can.~Don't let their group numbers drop below 50.~Study them for 10 MINUTES and report back to me.
+17_GOAL^-Level Goal-##Protect 50 greys for 10 minutes.
+17_02^You are doing well.~A full minute of study has passed.
+17_03^Keep going...~7 minutes of study are left.
+17_04^No! The Greys are moving!~We need 6 more minutes of study.~Protect 50 of them at any cost!
+17_win^We have learned much from the cursed greys.~Their disease is complex.~But we now know they were created by our rivals!|How could they have unleashed this abomination?~It infects their colony as well as ours.|We have to stop this menace.
+17_lose^It must be terrible to protect the grey menace...~yet you must not fail to do so.|Try again.
+17_05^You have found more greys to study!~Maybe there are others...
+17_06^Excellent!~Keep the grey population high enough!
+18_title^Hide and Seek
+18_01^-HIDE AND SEEK-~Be vigilant.~This fight will not be won by frontal attack.|Keep your eyes on the sky...
+18_GOAL^-Level Goal-##Defeat all enemies.
+18_02^You can't stay here!~Flee!
+18_03^Friendly seedlings?~Maybe there are others...
+18_win^They couldn't catch you!~This is why the Growers chose us.|We are as smart as we are strong.
+18_lose^Choose wisely little one.~Watch their movements carefully...|Plant your trees again.
+19_title^Looking Glass
+19_01^-LOOKING GLASS-~Things are not as they seem...~Explore this sector and find out what's here.|Beware, young seedling.~Not one of our scouts has returned from here.
+19_GOAL^-Level Goal-##Defeat the greys.
+19_02^The greys have infected a massive base!~You MUST defeat them and conquer that asteroid.
+19_03^There is another asteroid cluster nearby!
+19_win^Our enemies retreat yet again.|This time however we have learned something important.~We found a sector where the greys have only just arrived...|It is a chance to strike back and strike hard.~Go there next.
+19_lose^Jump again.~Victory is essential.|All we have to do is fight.
+20_title^Badlands
+20_01^-BADLANDS-~These are the badlands...~Almost nothing grows here.~How can anything survive?|Destroy the grey menace where you find it!
+20_GOAL^-Level Goal-##Destroy all greys.
+20_02^You have found allies!~Maybe there are more....
+20_03^More allies!
+20_win^The sickness has been banished from this asteroid field.|We have learned something new...~The greys all come from the same star system and we have learned its location.|Our struggle is reaching a conclusion.~You have to face the EVENT HORIZON...
+20_lose^The sickness must be defeated.~No more seedlings must succumb to the grey menace.|Raise new shoots and try again.
+21_title^Event Horizon
+21_01^-EVENT HORIZON-~Our enemy is weak...~They are retreating from our might!|Round them up and finish them off.
+21_GOAL^-Level Goal-##Defeat your rival.
+21_02^We are in trouble...~A counter-invasion has started!
+21_win^That was close...~But you have done well.|We have won this fight, but we can't grow complacent.
+21_lose^Caught in a counter-invasion...~Our enemy's tactics are cowardly.|Show them the strength of our resolve.
+22_title^Solar Flare
+22_01^-SOLAR FLARE-~Take great care...~This nebula is filled with volatile plasma.|Shots and explosions can do enormous damage.~Even the tiniest seedling can destroy an enemy...|We have sent you two teams to compensate.~Destroy all enemies before it is too late!
+22_GOAL^-Level Goal-##Defeat all enemies.
+22_win^We stop our enemies yet again but they must be desperate...|Fighting over these volatile grounds is madness.~Even the Growers would not colonize this dire place.
+22_lose^Curse these asteroids.~What use are they to anybody?|Still, conquer them we must.~Try again.
+23_title^Collision Course
+23_01^-COLLISION COURSE-~Two asteroid belts have collided.~They are all fighting each other.|This is your chance to take their soil...~and plant the seeds of our victory.~Take all asteroids, little seedling!!
+23_GOAL^-Level Goal-##Completely colonise both asteroid belts.
+23_win^While asteroids collide we reap our harvest.~Our forests grow ever stronger.|Your successes show that you are ready for a special mission next...
+23_lose^Be watchful little seedling.~Do not let down your guard.|Try and rise again.
+24_title^200
+24_01^-200-~You must build a swarm of 200 before the others can.|200 brave seedlings can take these asteroids, and chase away the others.~Our fight back begins here!
+24_GOAL^-Level Goal-##Grow a force of 200 seedlings.
+24_lose^We have lost this battle.~The Growers expect more of us.
+24_win^You have done it. 200 seedlings!~The enemy has been chased off.|The Growers will come home one day, and these habitats will fill them with pride.|Little seedling...~We now know where the sickness has come from.|Our final battle awaits. The growers must be served.
+24_lose2^Our enemies have grown bold.~200 enemies have destroyed our plans.|Plant your trees again.
+25_title^The Centre Cannot Hold
+25_01^-THE CENTRE CANNOT HOLD-~Here at the heart of the sickness is where we must make a final stand...|The answer is found amongst the burnt tree trunks of our enemies..~Defeat the grey disease and make our realm safe, for the return of The Growers.
+25_GOAL^-Level Goal-##Destroy the greys.
+25_02^Oh no...~we have learned a TERRIBLE truth...~The grey seedlings, they carry our own DNA...|The infection isn't alien, but has been created by other seedlings.~The greys are a weapon of our own making.~How can this be?
+25_03^All has become frighteningly clear.~All the enemy colonies share the same genetic makeup...!|We are all brothers and sisters, yet have been killing our siblings and spreading infection amongst our own kind.|In our quest to claim soil for The Growers to return to, we have disgraced them.~How can we pay for a crime of this magnitude?|The mad grey ones are still a threat to all...~We have to remove this terrible infection once and for all.
+25_win^Game Complete##It is finally over.##The greys have been removed from this sector, the source of the infection is gone!##This concludes the Story Mode of the game.##Try playing through the Arena levels.##Alternatively, since you're now an expert player, you can play through the game in Dark Matter Mode!
+25_win2^Thanks For Playing Eufloria!##Created by Alex May and Rudolf Kremers, with music and sounds by Milieu##Additional programming and art by Mike Ttoouli, Alex Ashby, and Dugan Jackson##iOS version developed by Mark Fitt and Alex Amsel with additional art from Anthony Flack##Produced by Omni Systems Limited
+25_lose^The darkness between the stars is vast...~If we fail we fail for eternity.
+01a_title^Binary Giants
+01a_01^-BINARY GIANTS-~Defend your starting asteroid.~Conquer the other giant in this system.
+01a_win^The Giant is yours!~You are the Victor.
+01a_lose^Your colony has been smashed.~Regain it!
+02a_title^Particle Acceleration
+02a_01^-PARTICLE ACCELERATION-~Things move fast in this asteroid field.~Conquer ten asteroids to win this match.~Concede ten and lose...
+02a_win^Speedy growth has brought you victory.
+02a_lose^You have played too timidly.~Victory can still be yours; you must try again.
+03a_title^Ten Titans
+03a_01^-TEN TITANS-~Ten have entered...#Only one will survive.~Defeat all enemies!
+03a_win^You have proven yourself ten times over!~Victory is yours.
+03a_lose^How can one stand against so many?~You must prove that your seedlings grow where others perish.
+04a_title^Abundance
+04a_01^-ABUNDANCE-~The fertile soil grows all resources you can hope for!~Beware... a grey menace lurks nearby...~Conquer all asteroids in this oasis.
+04a_win^You have earned these fertile lands!~Victory is yours.
+04a_lose^You have been outfought.~But have you been outsmarted?~Find out and try again.
+05a_title^Deep Space
+05a_01^-DEEP SPACE-~In this vast expanse travel speed is of the essence.~Destroy the others and claim this vast system.
+05a_win^The void is yours!
+05a_lose^The darkness between the stars is vast.~The cold awaits...~Unless you try again.
+06a_title^Two Tribes
+06a_01^-TWO TRIBES-~Two sides have#gathered to do battle.~Who will strike first?~Eliminate your opponent, before your opponent eliminates you.
+06a_win^You stand tall.~Your opponent has been vanquished.
+06a_lose^You have lost this duel.~Dare you fight again?
+07a_title^Particle Density
+07a_01^-PARTICLE DENSITY-~Eleven asteroids, but none free.~Only one thing to do: free them all!~Destroy all competitors!
+07a_win^11 territories gained...~11 times the victor!
+07a_lose^You have played too slowly.~Victory can still be yours, you must try again.
+08a_title^Solar Flare II
+08a_01^-SOLAR FLARE II-~This sector is filled with ignitable solar plasma.~Each attack burns like the fires of a star.~Defeat the others before they destroy you.
+08a_win^You have defeated your foes.
+08a_lose^Your colony has burned down.~Your trees reduced to smoking stumps.~You must break through the charred soil and grow again.
+01_strategy^Heed the mother tree!##She is wise.
+02_strategy^Remember, you need ten seedlings to plant a tree!##Colonise new asteroids to expand your view.
+03_strategy^Keep your asteroids well defended.
+04_strategy^Asteroids with good resources produce effective seedlings.
+05_strategy^Defensive trees are very dangerous, but can be taken down by sufficient high STRENGTH seedlings.##Older trees take longer to destroy, so try and attack them when they're young.
+06_strategy^Don’t try to conquer the well defended asteroids. They are not required to complete the Level Goal.##Send scouts to uncover your surroundings.##Asteroids with a high SPEED attribute grow fast seedlings which can race past defences to undefended asteroids.
+07_strategy^Quickly head right until you find and colonise the high ENERGY asteroid.##You often need to move fast to prevent your enemies becoming too strong.##High ENERGY seedlings sap asteroid cores faster.
+08_strategy^Head left and make sure you create a seedling swarm of sufficient size and attributes before major battles.##Protect your first asteroid with some defense trees.##Terraform the first few acquired asteroids to boost new seedlings' STRENGTH.
+09_strategy^It is essential to conquer the giant central asteroid.##Be wary of counter attacks however.
+10_strategy^LASER PODS automatically re-grow on their tree of origin after being destroyed.##You can deploy them over and over again.
+11_strategy^Make your move early before you become overwhelmed.
+12_strategy^Enemies are less interested in weak asteroids. They are a good place to grow your army of 100.##Be prepared to back away quickly from a fight.##Finding friends is essential.
+13_strategy^Let the enemy punch itself out on the defense trees to your right.##Instead, conquer the left side of the asteroid field and grow strong seedlings and LASER PODS.##Counter attack with a large swarm.
+14_strategy^Defend choke points.##Build a massive army once you have control over a good area of space.
+15_strategy^You can’t rush this mission.##Don’t overreach, but slowly methodically expand.
+16_strategy^Be prepared to lose your starting asteroids. Instead, colonise undefended asteroids to the right.##Utilise ENHANCED SEEDLINGS, defend, and expand slowly.
+17_strategy^Scout far and wide.##Discover other grey seedlings to keep numbers high enough.
+18_strategy^Flee to the upper right corner when the first attack wave strikes.##Look for which corner to go to when the next major attack wave strikes, and once or twice more.##Start building your resources only after your second or third big move.##Find friends.
+19_strategy^Don’t alert the grey swarm until you are ready to counter attack or defend.
+20_strategy^Pick your fights carefully and scout for friendly seedlings.
+21_strategy^Build a large force before you take on the large asteroid.##Once the enemy counter attack begins you can retake all the lost asteroids.
+22_strategy^Only pick fights you can win!
+23_strategy^Avoid strong enemies.##Carve out your own territory and grow ENHANCED SEEDLINGS and LASER PODS.##Defend choke points.
+24_strategy^Avoid pointless battles.##Find a corner to defend and grow your forces.##Small asteroids are less likely to be invaded.
+25_strategy^Defeat massive defences by staggering your attacks.##Don’t send all your seedlings at once.
+Achievement0^Starboretum
+Achievement1^Illuminator
+Achievement2^Safety
+Achievement3^Lightyear
+Achievement4^Lightsecond
+Achievement5^Pacifism
+Achievement6^Martyrdom
+Achievement7^Hero
+Achievement8^Aggressor
+Achievement9^Traveller
+Achievement10^Panspermia
+Achievement11^Gardener
+Achievement12^Minefield
+Achievement13^Attrition
+Achievement14^Besieged
+Achievement15^Stalemate
+Achievement16^Banzai
+Achievement17^Intruder
+Achievement18^Historian
+Achievement19^Uplift
+AchievementDescription0^Complete the main game.
+AchievementDescription1^Complete Dark Matter Mode.
+AchievementDescription2^Complete "200" without any of your own trees being destroyed.
+AchievementDescription3^Complete "The Centre Cannot Hold" within 60 minutes.
+AchievementDescription4^Complete Story Mode in under ten hours.
+AchievementDescription5^Complete "Protection" without destroying anyone else's trees.
+AchievementDescription6^Attack an enemy asteroid and lose 300 seedlings in the process.
+AchievementDescription7^Find over 700 of the lost seedlings in the game.
+AchievementDescription8^Attack an enemy asteroid and destroy 200 seedlings in the process.
+AchievementDescription9^Discover an asteroid using a flower or a mine.
+AchievementDescription10^Send a flower or a mine over 50000 arbitrary distance units.
+AchievementDescription11^Gather ten flowers on an asteroid.
+AchievementDescription12^Gather five mines on an asteroid.
+AchievementDescription13^Battle for an enemy asteroid for ten minutes.
+AchievementDescription14^Defend one of your own asteroids continuously for five minutes.
+AchievementDescription15^A pitched battle that lasts over 15 minutes and incurs 500 losses between all sides.
+AchievementDescription16^Destroy ten enemy seedlings using a mine explosion.
+AchievementDescription17^Land a beacon seed on an enemy asteroid.
+AchievementDescription18^Record all of the Ancient Artifacts.
+AchievementDescription19^Terraform an asteroid to maximum resources.
+iOS_SelectAsteroid^Asteroid Selection##You can find out information on asteroids by SELECTING them.##• Tap an asteroid to SELECT it.##A black line will link it to the INFO PANEL at the bottom of the screen.##• Tap empty space or another asteroid to DESELECT it.##You must have explored an asteroid to be able to see its information.
+iOS_PanZoom^Pan and Zoom##You can pan and zoom the view to look around your colony.##• Drag the view around using your finger.##• Pinch with two fingers to ZOOM IN or OUT.##• Double tap an asteroid to see it close up.##• Double tap it again to return to your previous view.##The size of your colony determines how far you can see. You need a tree on an asteroid for it to be part of your colony.
+iOS_SendMode^Send Mode##Seedlings can be sent to another asteroid by activating SEND MODE.##There are different ways to do this and you may use whichever you prefer.##Seedlings can only be sent within your colony's range, which is highlighted in SEND MODE.
+iOS_DragSendMode^Quick Send##• {u57357}Drag your finger from your seedlings' asteroid to a target asteroid.##• Lift up your finger.##A green arrow will connect the two asteroids and the target asteroid will be surrounded by a large, green circle.##• {u57358}Tap the target asteroid again to send your seedlings.
+iOS_ButtonSendMode^Manual Send##• {u57357}SELECT an asteroid.##• {u57358}Tap {u57353} or press and briefly hold your finger on an asteroid.##The asteroid will be highlighted with a green outline.##• {u57359}Tap a target asteroid; a green arrow will connect the two.##• {u57360}Tap the target asteroid again to send your seedlings.
+iOS_DysonTree^Dyson Trees##DYSON TREES are used to grow new seedlings.##• Plant a DYSON TREE by tapping {u57349}##10 seedlings are used to plant the tree.##DYSON TREES are unable to shed new seedlings on asteroids populated by over 40 seedlings, so keep watch over your colony!##You must plant trees on empty asteroids to expand your Colony.
+iOS_SpeedControl^Speed Control##Eufloria can be played at a fast or slow pace.##If you want to play faster, the game speed can be changed once the Mother Tree has finished speaking to you.##• Slide the SPEED CONTROL on the top left of the screen to speed up or slow down the game.##Change the speed as many times as you like!
+iOS_Attributes^Attributes##An asteroid's CORE ENERGY is defined by the quality of its resources, which are displayed on the INFO PANEL.##An asteroid's ENERGY, STRENGTH and SPEED  determine their seedlings' attributes.##• ENERGY: Affects health and ability to sap asteroid core.##• STRENGTH: Determines attack power.##• SPEED: Allows fast travel and aids in avoiding enemy defences.##Attributes also determine both seedling and tree appearance.
+iOS_PreciseSend^Precise Sending##You can choose how many seedlings to send to asteroids.##• While in SEND MODE, use your finger to rotate the green radial dial overlaid on the target asteroid.##It can be useful to leave some seedlings behind to protect your colony.
+iOS_Scouting^Scouting##It is possible to scout an unknown asteroid with a single seedling. This allows you to see information on the asteroid and any nearby enemies##• Activate SEND MODE and select a target.##• Send a scout by tapping {u57352}##Scouting is a great way to quickly explore nearby asteroids without leaving your colony defenceless.
+iOS_Battles^Combat##When seedlings are sent to an enemy asteroid they attack its trees, which redden when damaged.##Trees recover given time, but if a tree is destroyed then the seedlings will try to overpower the asteroid's core.##Should the core be taken, the asteroid will be added to their colony!##Your asteroids glow with a red alert signal when being invaded.##Seedlings will defend their asteroid from enemy invasions.
+iOS_ArtifactIntroduce^Ancient Artifacts##ANCIENT ARTIFACTS are mysterious items hidden throughout the universe.##To collect an ARTIFACT, you must:##• Colonise their home asteroid.##• Zoom in and tap the ARTIFACT to acquire it. ##View your collection by choosing VIEW ARTIFACTS from the MAIN MENU.
+iOS_DefenseTree^Defense Trees##DEFENSE TREES release explosive pods that follow enemy seedlings.##• Plant a DEFENSE TREE by tapping {u57348}##10 seedlings are used to plant the tree.##DEFENSE TREES can be harmed by seedlings with high STRENGTH.##You must plant trees on empty asteroids to expand your colony.
+iOS_FilterByAttribute^Filter Seedlings##When sending seedlings, you may choose to send only those which are especially HEALTHY, STRONG, or FAST.##• When in SEND MODE, use {u57361}, {u57369} or {u57367} to select your preferred powerful attribute for sending.##These buttons are only available when you have suitably powerful seedlings.
+iOS_BeaconPlant^Beacon Plants##BEACON PLANTS allow you to send newly grown seedlings automatically to other asteroids.##• {u57357}Tap {u57345} to plant or SELECT a BEACON PLANT.##• {u57358}Tap the asteroid you want to send new seedlings to.##• {u57359}Tap the target asteroid again to confirm. A BEACON SEED will be sent to the target. ##• Tap {u57346} to deactivate the BEACON PLANT.##Existing seedlings and new arrivals will remain at the current asteroid.##Reminder: seedlings can't grow if you have 40 or more already present!
+iOS_Terraform^Terraform Trees##TERRAFORM TREES allow you to boost ONE resource on an asteroid.##10 seedlings are used to plant the tree, and up to 100 seedlings can be used to modify the resource.##• {u57357}Tap {u57354} to plant or SELECT a TERRAFORM TREE.##• {u57358}Use the ATTRIBUTE SLIDERS on the INFO PANEL to allocate seedlings to an attribute. The white bar at the top of the INFO PANEL shows how many more seedlings can be used.##• {u57359}Tap {u57347} to start terraforming.##Terraforming can be repeated until all 100 seedlings have been allocated.
+iOS_FlowerMine^Flowers and Laser Pods##DYSON TREES sometimes produce FLOWERS.#When grafted on a DEFENSE TREE, the tree will produce LASER PODS.##• {u57357}FLOWERS and LASER PODS must be plucked with a finger swipe, {u57350} or {u57351} once fully grown.##• {u57358}Tap {u57379} to graft a FLOWER to a DEFENSE TREE.##The INFO PANEL shows the health of a selected FLOWER or LASER POD.##Use LASER PODS to attack enemy armies and watch them wreak havoc! They will regrow on their tree if they are destroyed.
+iOS_FlowerMineSend^Sending Flowers and Laser Pods##FLOWERS and LASER PODS can be sent to other asteroids, just like seedlings.##• {u57357}Tap the object to select it.##• {u57358}Tap a target asteroid.##• {u57359}Tap the target asteroid again to confirm.##LASER PODS are also sent with seedlings when using SEND MODE, but FLOWERS are not.
+iOS_FilterByType^Filter By Type##You can choose which types of units to send by using the Filter By Type Buttons in SEND MODE.##Using filters allows LASER PODS to be controlled separately from seedlings.##• Tap {u57365}, {u57371}, or {u57363} to select one or more types to send.##• If the FILTER BY ATTRIBUTE view is available, the {u57355} and {u57356} buttons can be tapped to switch the filter mode.
+iOS_EnhancedSeedlings^Enhanced Seedlings##When a FLOWER is planted on a DYSON TREE, the tree produces ENHANCED SEEDLINGS.##These are much more powerful than regular seedlings.##• Tap {u57380} to plant a FLOWER on a DYSON TREE.##Any new seedlings grown on this tree will be ENHANCED!
+Touch_SelectAsteroid^Asteroid Selection##You can find out information on asteroids by SELECTING them.##• Tap an asteroid to SELECT it.##A black line will link it to the INFO PANEL at the bottom of the screen.##• Tap empty space or another asteroid to DESELECT it.##You must have explored an asteroid to be able to see its information.
+Touch_PanZoom^Pan and Zoom##You can pan and zoom the view to look around your colony.##• Drag the view around using your finger.##• Pinch with two fingers to ZOOM IN or OUT.##• Double tap an asteroid to see it close up.##• Double tap it again to return to your previous view.##The size of your colony determines how far you can see. You need a tree on an asteroid for it to be part of your colony.
+Touch_SendMode^Send Mode##Seedlings can be sent to another asteroid by activating SEND MODE.##There are different ways to do this and you may use whichever you prefer.##Seedlings can only be sent within your colony's range, which is highlighted in SEND MODE.
+Touch_DragSendMode^Quick Send##• {u57357}Drag your finger from your seedlings' asteroid to a target asteroid.##• Lift up your finger.##A green arrow will connect the two asteroids and the target asteroid will be surrounded by a large, green circle.##• {u57358}Tap the target asteroid again to send your seedlings.
+Touch_ButtonSendMode^Manual Send##• {u57357}SELECT an asteroid.##• {u57358}Tap {u57353} or press and briefly hold your finger on an asteroid.##The asteroid will be highlighted with a green outline.##• {u57359}Tap a target asteroid; a green arrow will connect the two.##• {u57360}Tap the target asteroid again to send your seedlings.
+Touch_DysonTree^Dyson Trees##DYSON TREES are used to grow new seedlings.##• Plant a DYSON TREE by tapping {u57349}##10 seedlings are used to plant the tree.##DYSON TREES are unable to shed new seedlings on asteroids populated by over 40 seedlings, so keep watch over your colony!##You must plant trees on empty asteroids to expand your Colony.
+Touch_SpeedControl^Speed Control##Eufloria can be played at a fast or slow pace.##If you want to play faster, the game speed can be changed once the Mother Tree has finished speaking to you.##• Slide the SPEED CONTROL on the top left of the screen to speed up or slow down the game.##Change the speed as many times as you like!
+Touch_Attributes^Attributes##An asteroid's CORE ENERGY is defined by the quality of its resources, which are displayed on the INFO PANEL.##An asteroid's ENERGY, STRENGTH and SPEED  determine their seedlings' attributes.##• ENERGY: Affects health and ability to sap asteroid core.##• STRENGTH: Determines attack power.##• SPEED: Allows fast travel and aids in avoiding enemy defences.##Attributes also determine both seedling and tree appearance.
+Touch_PreciseSend^Precise Sending##You can choose how many seedlings to send to asteroids.##• While in SEND MODE, use your finger to rotate the green radial dial overlaid on the target asteroid.##It can be useful to leave some seedlings behind to protect your colony.
+Touch_Scouting^Scouting##It is possible to scout an unknown asteroid with a single seedling. This allows you to see information on the asteroid and any nearby enemies##• Activate SEND MODE and select a target.##• Send a scout by tapping {u57352}##Scouting is a great way to quickly explore nearby asteroids without leaving your colony defenceless.
+Touch_Battles^Combat##When seedlings are sent to an enemy asteroid they attack its trees, which redden when damaged.##Trees recover given time, but if a tree is destroyed then the seedlings will try to overpower the asteroid's core.##Should the core be taken, the asteroid will be added to their colony!##Your asteroids glow with a red alert signal when being invaded.##Seedlings will defend their asteroid from enemy invasions.
+Touch_ArtifactIntroduce^Ancient Artifacts##ANCIENT ARTIFACTS are mysterious items hidden throughout the universe.##To collect an ARTIFACT, you must:##• Colonise their home asteroid.##• Zoom in and tap the ARTIFACT to acquire it. ##View your collection by choosing VIEW ARTIFACTS from the MAIN MENU.
+Touch_DefenseTree^Defense Trees##DEFENSE TREES release explosive pods that follow enemy seedlings.##• Plant a DEFENSE TREE by tapping {u57348}##10 seedlings are used to plant the tree.##DEFENSE TREES can be harmed by seedlings with high STRENGTH.##You must plant trees on empty asteroids to expand your colony.
+Touch_FilterByAttribute^Filter Seedlings##When sending seedlings, you may choose to send only those which are especially HEALTHY, STRONG, or FAST.##• When in SEND MODE, use {u57361}, {u57369} or {u57367} to select your preferred powerful attribute for sending.##These buttons are only available when you have suitably powerful seedlings.
+Touch_BeaconPlant^Beacon Plants##BEACON PLANTS allow you to send newly grown seedlings automatically to other asteroids.##• {u57357}Tap {u57345} to plant or SELECT a BEACON PLANT.##• {u57358}Tap the asteroid you want to send new seedlings to.##• {u57359}Tap the target asteroid again to confirm. A BEACON SEED will be sent to the target. ##• Tap {u57346} to deactivate the BEACON PLANT.##Existing seedlings and new arrivals will remain at the current asteroid.##Reminder: seedlings can't grow if you have 40 or more already present!
+Touch_Terraform^Terraform Trees##TERRAFORM TREES allow you to boost ONE resource on an asteroid.##10 seedlings are used to plant the tree, and up to 100 seedlings can be used to modify the resource.##• {u57357}Tap {u57354} to plant or SELECT a TERRAFORM TREE.##• {u57358}Use the ATTRIBUTE SLIDERS on the INFO PANEL to allocate seedlings to an attribute. The white bar at the top of the INFO PANEL shows how many more seedlings can be used.##• {u57359}Tap {u57347} to start terraforming.##Terraforming can be repeated until all 100 seedlings have been allocated.
+Touch_FlowerMine^Flowers and Laser Pods##DYSON TREES sometimes produce FLOWERS.#When grafted on a DEFENSE TREE, the tree will produce LASER PODS.##• {u57357}FLOWERS and LASER PODS must be plucked with a finger swipe, {u57350} or {u57351} once fully grown.##• {u57358}Tap {u57379} to graft a FLOWER to a DEFENSE TREE.##The INFO PANEL shows the health of a selected FLOWER or LASER POD.##Use LASER PODS to attack enemy armies and watch them wreak havoc! They will regrow on their tree if they are destroyed.
+Touch_FlowerMineSend^Sending Flowers and Laser Pods##FLOWERS and LASER PODS can be sent to other asteroids, just like seedlings.##• {u57357}Tap the object to select it.##• {u57358}Tap a target asteroid.##• {u57359}Tap the target asteroid again to confirm.##LASER PODS are also sent with seedlings when using SEND MODE, but FLOWERS are not.
+Touch_FilterByType^Filter By Type##You can choose which types of units to send by using the Filter By Type Buttons in SEND MODE.##Using filters allows LASER PODS to be controlled separately from seedlings.##• Tap {u57365}, {u57371}, or {u57363} to select one or more types to send.##• If the FILTER BY ATTRIBUTE view is available, the {u57355} and {u57356} buttons can be tapped to switch the filter mode.
+Touch_EnhancedSeedlings^Enhanced Seedlings##When a FLOWER is planted on a DYSON TREE, the tree produces ENHANCED SEEDLINGS.##These are much more powerful than regular seedlings.##• Tap {u57380} to plant a FLOWER on a DYSON TREE.##Any new seedlings grown on this tree will be ENHANCED!
+Mouse_SelectAsteroid^Asteroid Selection##You can find out information on asteroids by SELECTING them.##• Click on an asteroid to SELECT it.##A black line will link it to the INFO PANEL at the bottom of the screen.##• Click on empty space or another asteroid to DESELECT it.##You must have explored an asteroid to be able to see its information.
+Mouse_PanZoom^Pan and Zoom##You can pan and zoom the view to look around your colony.##• Pan the view by holding the right mouse button and dragging, use WASD, or use the cursor keys.##• Use the scroll wheel, press Q/E, or press Page Up/Page Down to ZOOM IN or OUT.##• Double click an asteroid to see it close up.##• Double click it again to return to your previous view.##The size of your colony determines how far you can see. You need a tree on an asteroid for it to be part of your colony.
+Mouse_SendMode^Send Mode##Seedlings can be sent to another asteroid by activating SEND MODE.##There are different ways to do this and you may use whichever you prefer.##Seedlings can only be sent within your colony's range, which is highlighted in SEND MODE.
+Mouse_DragSendMode^Quick Send##• {u57357}Hold the left mouse button and drag from your seedlings' asteroid to a target asteroid.##• Let go of the mouse button.##A green arrow will connect the two asteroids and the target asteroid will be surrounded by a large, green circle.##• {u57358}Click on the target asteroid again to send your seedlings.
+Mouse_ButtonSendMode^Manual Send##• {u57357}SELECT an asteroid.##• {u57358}Click on {u57353}.##The asteroid will be highlighted with a green outline.##• {u57359}Click on a target asteroid; a green arrow will connect the two.##• {u57360}Click on the target asteroid again to send your seedlings.
+Mouse_DysonTree^Dyson Trees##DYSON TREES are used to grow new seedlings.##• Plant a DYSON TREE by clicking on {u57349}##10 seedlings are used to plant the tree.##DYSON TREES are unable to shed new seedlings on asteroids populated by over 40 seedlings, so keep watch over your colony!##You must plant trees on empty asteroids to expand your Colony.
+Mouse_SpeedControl^Speed Control##Eufloria can be played at a fast or slow pace.##If you want to play faster, the game speed can be changed once the Mother Tree has finished speaking to you.##• Slide the SPEED CONTROL on the top left of the screen to speed up or slow down the game.##Change the speed as many times as you like!
+Mouse_Attributes^Attributes##An asteroid's CORE ENERGY is defined by the quality of its resources, which are displayed on the INFO PANEL.##An asteroid's ENERGY, STRENGTH and SPEED  determine their seedlings' attributes.##• ENERGY: Affects health and ability to sap asteroid core.##• STRENGTH: Determines attack power.##• SPEED: Allows fast travel and aids in avoiding enemy defences.##Attributes also determine both seedling and tree appearance.
+Mouse_PreciseSend^Precise Sending##You can choose how many seedlings to send to asteroids.##• While in SEND MODE, use the left mouse button to adjust the green radial dial overlaid on the target asteroid.##It can be useful to leave some seedlings behind to protect your colony.
+Mouse_Scouting^Scouting##It is possible to scout an unknown asteroid with a single seedling. This allows you to see information on the asteroid and any nearby enemies##• Activate SEND MODE and select a target.##• Send a scout by clicking on {u57352} or by clicking on the target with the right mouse button.##Scouting is a great way to quickly explore nearby asteroids without leaving your colony defenceless.
+Mouse_Battles^Combat##When seedlings are sent to an enemy asteroid they attack its trees, which redden when damaged.##Trees recover given time, but if a tree is destroyed then the seedlings will try to overpower the asteroid's core.##Should the core be taken, the asteroid will be added to their colony!##Your asteroids glow with a red alert signal when being invaded.##Seedlings will defend their asteroid from enemy invasions.
+Mouse_ArtifactIntroduce^Ancient Artifacts##ANCIENT ARTIFACTS are mysterious items hidden throughout the universe.##To collect an ARTIFACT, you must:##• Colonise their home asteroid.##• Zoom in and click on the ARTIFACT to acquire it. ##View your collection by choosing VIEW ARTIFACTS from the MAIN MENU.
+Mouse_DefenseTree^Defense Trees##DEFENSE TREES release explosive pods that follow enemy seedlings.##• Plant a DEFENSE TREE by clicking on {u57348}##10 seedlings are used to plant the tree.##DEFENSE TREES can be harmed by seedlings with high STRENGTH.##You must plant trees on empty asteroids to expand your colony.
+Mouse_FilterByAttribute^Filter Seedlings##When sending seedlings, you may choose to send only those which are especially HEALTHY, STRONG, or FAST.##• When in SEND MODE, use {u57361}, {u57369} or {u57367} to select your preferred powerful attribute for sending.##These buttons are only available when you have suitably powerful seedlings.
+Mouse_BeaconPlant^Beacon Plants##BEACON PLANTS allow you to send newly grown seedlings automatically to other asteroids.##• {u57357}Click on {u57345} to plant or SELECT a BEACON PLANT.##• {u57358}Click on the asteroid you want to send new seedlings to.##• {u57359}Click on the target asteroid again to confirm. A BEACON SEED will be sent to the target. ##• Click on {u57346} to deactivate the BEACON PLANT.##Existing seedlings and new arrivals will remain at the current asteroid.##Reminder: seedlings can't grow if you have 40 or more already present!
+Mouse_Terraform^Terraform Trees##TERRAFORM TREES allow you to boost ONE resource on an asteroid.##10 seedlings are used to plant the tree, and up to 100 seedlings can be used to modify the resource.##• {u57357}Click on {u57354} to plant or SELECT a TERRAFORM TREE.##• {u57358}Use the ATTRIBUTE SLIDERS on the INFO PANEL to allocate seedlings to an attribute. The white bar at the top of the INFO PANEL shows how many more seedlings can be used.##• {u57359}Click on {u57347} to start terraforming.##Terraforming can be repeated until all 100 seedlings have been allocated.
+Mouse_FlowerMine^Flowers and Laser Pods##DYSON TREES sometimes produce FLOWERS.#When grafted on a DEFENSE TREE, the tree will produce LASER PODS.##• {u57357}FLOWERS and LASER PODS must be plucked by swiping with the left mouse button, {u57350} or {u57351} once fully grown.##• {u57358}Click on {u57379} to graft a FLOWER to a DEFENSE TREE.##The INFO PANEL shows the health of a selected FLOWER or LASER POD.##Use LASER PODS to attack enemy armies and watch them wreak havoc! They will regrow on their tree if they are destroyed.
+Mouse_FlowerMineSend^Sending Flowers and Laser Pods##FLOWERS and LASER PODS can be sent to other asteroids, just like seedlings.##• {u57357}Click on the object to select it.##• {u57358}Click on a target asteroid.##• {u57359}Click on the target asteroid again to confirm.##LASER PODS are also sent with seedlings when using SEND MODE, but FLOWERS are not.
+Mouse_FilterByType^Filter By Type##You can choose which types of units to send by using the Filter By Type Buttons in SEND MODE.##Using filters allows LASER PODS to be controlled separately from seedlings.##• Click on {u57365}, {u57371}, or {u57363} to select one or more types to send.##• If the FILTER BY ATTRIBUTE view is available, the {u57355} and {u57356} buttons can be used to switch the filter mode.
+Mouse_EnhancedSeedlings^Enhanced Seedlings##When a FLOWER is planted on a DYSON TREE, the tree produces ENHANCED SEEDLINGS.##These are much more powerful than regular seedlings.##• Click on {u57380} to plant a FLOWER on a DYSON TREE.##Any new seedlings grown on this tree will be ENHANCED!
+ArtifactFirstDiscover^Ancient Artifact##You have discovered an ANCIENT ARTIFACT!##These mysterious items are hidden throughout the universe.##Try to find them all and preserve them for further study.##Your collection can be viewed by choosing VIEW ARTIFACTS from the MAIN MENU.
+ArtifactName0^Ovoid 7
+ArtifactName1^Cubos
+ArtifactName2^Q-Plane
+ArtifactName3^Bolian Radio
+ArtifactName4^Celestia Nest
+ArtifactName5^Amberous
+ArtifactName6^Gersical Void
+ArtifactName7^Antropian Trap
+ArtifactName8^Micro Nautilus
+ArtifactName9^Gliesian Mirror
+ArtifactName10^Geres Cloud Horn
+ArtifactName11^Grower Husk
+ArtifactName12^Cache 13
+ArtifactName13^Cache 14
+ArtifactName14^Auto Vac
+ArtifactName15^Iron Balloon
+ArtifactName16^Flux Calendar
+ArtifactName17^Fear Flower
+ArtifactName18^The Twins
+ArtifactName19^Guardian
+ArtifactName20^The Versuvia Tablet
+ArtifactName21^False Witness
+ArtifactName22^Companions
+ArtifactName23^The individual
+ArtifactName24^Zotropic Enhancer
+ArtifactName25^Gravitonastus
+ArtifactName26^Sensoric Antenna
+ArtifactName27^Protoflora
+ArtifactName28^Mimic
+ArtifactName29^?
+ArtifactDescription0^“This egg shaped artifact transmits a melody made of seven musical notes at random intervals.”
+ArtifactDescription1^“A giant cube of unknown material. Glowing lines course across its surface. It is emitting a low buzzing sound.”
+ArtifactDescription2^"Partially exists in a different dimension. Quantum displacement field active"
+ArtifactDescription3^“Transmits an encrypted signal to an unknown location.”
+ArtifactDescription4^“This smooth, rounded ancient artifact feels cold to the touch, yet measures at least 40 degrees celcius on the surface.”
+ArtifactDescription5^“Artifact bears an image of a gastropod in some kind of sticky fluid. Its use cannot be determined.”
+ArtifactDescription6^“Absorbs all sound in a 12 foot radius. Resulting null-sound bubble penetrates all known materials.”
+ArtifactDescription7^“The artifact has emitted a type of radiation that has hardened the rock surrounding it, and cannot be analysed further.”
+ArtifactDescription8^“This appears to be a tiny ship, trapped in temporal stasis. It cannot be freed.”
+ArtifactDescription9^“Caution! This artifact appears to be a dimensional mirror. The mirror dimension contains subtle differences which could prove dangerous.”
+ArtifactDescription10^“A remarkable artifact that emits a range of signals warning travelers of the nearby Geres Cloud; a dangerous self aware nanobot colony.”
+ArtifactDescription11^“This holy artifact is believed to be a potential Grower tomb. It is a bipedal in shape and impenetrable. It may also contain a Grower’s pet.”
+ArtifactDescription12^“DANGER. The relic may contain forbidden weaponry and technology. Only the Growers may have access.”
+ArtifactDescription13^“A complex arrangement of intertwined data tubes. The data may represent billions of poems, but all translation efforts have proven inconclusive.”
+ArtifactDescription14^“Unknown purpose. Seemingly self contained system.”
+ArtifactDescription15^“A mysterious artifact made of pure iron. Although of huge size its weight is one tenth of what it should be.”
+ArtifactDescription16^“This paradoxical device seems to be a celestial calendar. It predicts imminent celestial events correctly, yet future predictions seem to alter on a regular basis.”
+ArtifactDescription17^“This unpleasant artifact appears to be a beautiful crystalline flower, but any life form in its vicinity is overcome with feelings of fear and dread.”
+ArtifactDescription18^“Two giant spheres orbiting each other. There seems to be no apparent energy source.”
+ArtifactDescription19^“DANGER! According to ancient data this artifact has been known to cause the disappearance of several Growers. Treat with utmost caution.”
+ArtifactDescription20^“A strange artifact displaying what appears to be a map. Its directions lead to a long dead star. Nothing of interest was found.”
+ArtifactDescription21^“The artifact contains an ancient scientific text, filled with remarkable statements and assertions, all of which are incorrect.”
+ArtifactDescription22^“This is a large mechanical cube that contains a minute vessel. The little vessel regularly leaves the cube and circumnavigates a nearby asteroid.”
+ArtifactDescription23^“According to Grower data this artifact contains a single element, different from any other known elements.”
+ArtifactDescription24^“This object has the power to imbue any sentient organism with a short lived sense of achievement.”
+ArtifactDescription25^“This extremely dense artifact attracts any object in its near vicinity and captures it in a stable orbit. It releases its satellites at unpredictable intervals.”
+ArtifactDescription26^“Creatures that touch the artifact temporarily gain a new sense, but are unable to describe the experience afterwards.”
+ArtifactDescription27^“A fossilized mechanical object shaped like a seedling. It looks similar to those produced by the mother tree but is primitive in design.”
+ArtifactDescription28^“This extraordinary ancient artifact mimics the exact shape of any celestial body it orbits. Details are replicated on a molecular level.”
+ArtifactDescription29^“This is a previously unknown artifact not mentioned in Grower data files. It is likely a reconnaissance probe from an undiscovered system. Contents include a golden disc.”
+TipTitle^Eufloripedia
+Tip_1^LASER PODS change colour as they get damaged.
+Tip_2^Nurture your trees.#The older they are the stronger and more effective they become
+Tip_3^If the core energy of an asteroid reaches zero, the asteroid will be taken over.
+Tip_4^Use {u57376} to pause the game and view your level goal.
+Tip_5^DYSON TREES are unable to shed new seedlings on asteroids populated by 40 or more already.
+Tip_6^Select the seedling on the right to change your team colour!
+Tip_7^Trees glow red when damaged.
+Tip_8^Thank you for supporting our indie game. We applaud you!
+Tip_9^Eufloria is largely procedurally generated.#Each time you play a level it will be different!
+Tip_10^Asteroid resources affect all seedlings born there.
+Tip_11^Fast seedlings can race past heavy defences.
+Tip_12^Strong seedlings take down enemy trees faster.
+Tip_13^High energy seedlings sap asteroid cores more effectively.
+Tip_14^DYSON TREES grow new seedlings.
+Tip_15^DEFENSE TREES help defend your asteroid.
+Tip_16^Play Style can be changed from OPTIONS on the MAIN MENU.
+Tip_17^Use BEACON PLANTS to automate seedling deployment.
+Tip_18^TERRAFORM TREES can improve one asteroid resource.
+Tip_19^Large seedlings have high ENERGY.
+Tip_20^Where available, use the filter options to send the most suitable seedlings.
+Tip_21^Seedlings with a long nose have high STRENGTH.
+Tip_22^Scout regularly.#The more you know about your enemy the better.
+Tip_23^FLOWERS can be planted on DYSON TREES to create enhanced seedlings.
+Tip_24^FLOWERS can be grafted on DEFENSE TREES to create LASER PODS.
+Tip_25^If destroyed, LASER PODS regrow on the tree they came from.
+Tip_26^LASER POD explosions can take out many enemies.
+Tip_27^DEFENSE TREES take down enemy LASER PODS faster than most seedlings!
+Tip_28^Use ENHANCED SEEDLINGS as battering rams against heavily defended asteroids.
+Tip_29^Hunt for Ancient Artifacts.#Collect them all and you may receive a reward.
+Tip_30^Dark Matter Mode allows you to replay Story Mode levels with a new goal.
+Tip_31^You can return seedlings from an asteroid if a fight is going badly.
+Tip_32^Use the STUCK? button below if you're stuck on STORY MODE.
+Tip_33^Tell others about Eufloria to gain Karma Points.
+Tip_34^Beware of the Grolfax.
+Tip_35^Intergalactic gardening is good for the soul.
+Tip_36^Seedling wings reflect their SPEED.
+Tip_37^Tree appearance reflects their asteroid's resources.
+Tip_38^Use {u57381} to skip messages during play.
+Tip_39^Stuck on a level?#You can unlock all the levels from the MAIN MENU.
+Tip_40^Tuna is the Wonderfish!
+HintHelp^Eufloripedia##HELP can be accessed at any time from the MAIN MENU or the PAUSE MENU.
+HintTips^Eufloripedia##Useful tips are displayed above the level selector.
+HintTeamColour^Eufloripedia##You can change your team colour if you wish.##Select the seedling above the MAIN MENU or LEVEL SELECTOR.
+HintSeedlingLimit^Eufloripedia##DYSON TREES are unable to shed new seedlings on asteroids already populated by 40 or more.##Take care not to overcrowd your asteroids.##The INFO PANEL seedling counter is green if there is room for more seedlings to grow on the asteroid.
+HintEasyMode^Eufloripedia##If you find Eufloria difficult or too fast, you can choose to play in a Relaxed manner.##• Select PLAY STYLE from OPTIONS on the MAIN MENU.
+HintGoal^Eufloripedia##Each level has its own goal, shown after the Mother Tree has spoken to you.##It can also be found on the PAUSE MENU.##You do not always have to colonise every asteroid to complete the level.
+HintDoubleTap^Eufloripedia##It's possible to quickly zoom in to an asteroid.##• Double tap an asteroid to see trees, seedlings and battles close-up.##• Double tap again to return to your previous view.
+HintDoubleTap_Mouse^Eufloripedia##It's possible to quickly zoom in to an asteroid.##• Double click an asteroid to see trees, seedlings and battles close-up.##• Double click again to return to your previous view.
+HintStrategy^Eufloripedia##Sometimes a fast approach to colonisation can prevent your enemy from becoming too powerful.##Other times, you need to be more reserved with your approach.##If you run into difficulties, start again and try different tactics.
+HintFlee^Eufloripedia##Sometimes you want your seedlings to flee a battle.##You can use SEND MODE to try and send them elsewhere.##However, they may not escape unharmed!
+HintGameModes^Eufloripedia##As well as Story Mode, there are Skirmish Arenas and Dark Matter Mode.##These are unlocked as you progress through the game.
+HintUnlock^Eufloripedia##Stuck on a level? You can unlock entire chapters if you want to skip levels.##• Select UNLOCK LEVELS from OPTIONS on the  MAIN MENU.##You can also unlock any of the other Game Modes.
+Fullscreen^Full Screen
+HighDensity^High Density
+DisplayResolution^Resolution
+RenderLevelOfDetail^Level of Detail
+RenderQuality^Render Quality
+RenderLevelOfDetailLowest^Lowest
+RenderLevelOfDetailLow^Low
+RenderLevelOfDetailMedium^Normal
+RenderLevelOfDetailHigh^High
+RenderLevelOfDetailHighest^Artsy
+RenderQualityLowest^Low
+RenderQualityHigh^High
+News^Support
+SmallDisplay^Bigger UI
+DisplayRestart^Display Options Changed##You will need to restart Eufloria for this to take effect.
+ActionLeftX^Left Axis X
+ActionLeftY^Left Axis Y
+ActionRightX^Right Axis X
+ActionRightY^Right Axis Y
+ActionDPadU^DPad Up
+ActionDPadR^DPad Right
+ActionDPadD^DPad Down
+ActionDPadL^DPad Left
+ActionOption^Option
+ActionStart^Start
+ActionLeftTrigger^Zoom In
+ActionRightTrigger^Zoom Out
+ActionLeftBumper^Speed Increase
+ActionRightBumper^Speed Reset
+ActionFaceBottom^Button 1
+ActionFaceRight^Button 2
+ActionFaceLeft^Button 3
+ActionFaceTop^Button 4
+Dummy^Dummy
